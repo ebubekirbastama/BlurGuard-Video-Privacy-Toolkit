@@ -9,6 +9,10 @@ BlurGuard Video Privacy Toolkit is a desktop video processing project designed t
 
 Repository: https://github.com/ebubekirbastama/BlurGuard-Video-Privacy-Toolkit
 
+<p align="center">
+  <img src="ebs.png" alt="BlurGuard Video Privacy Toolkit" width="800">
+</p>
+
 ## Features
 
 ### BlurGuard Pro
